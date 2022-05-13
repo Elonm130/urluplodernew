@@ -6,9 +6,9 @@
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/Boburjon04",
-  "repository": "https://github.com/Boburjon04/uploader0404",
+  "success_url": "https://t.me/Prabhat17_bot",
+  "website": "https://github.com/Elonm130",
+  "repository": "https://github.com/Elonm130/urluplodernew",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
