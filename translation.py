@@ -4,7 +4,7 @@ class Translation(object):
 This is a Telegram URL Upload Bot!
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 /help for more details..
-Support Channel : @BoburjonVlogs
+
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -16,7 +16,7 @@ Support Channel : @BoburjonVlogs
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
-Support Channel : @BoburjonVlogs
+
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
