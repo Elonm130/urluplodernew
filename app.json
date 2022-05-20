@@ -1,6 +1,6 @@
 {
   "name": "URL Uploader",
-  "description": "Telegram's Open Source URL Uploader Bot. Create your own Bot",
+  "description": "Telegram's Open Source URL Uploader Bot.",
   
   
   "env": {
